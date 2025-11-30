@@ -1,0 +1,3 @@
+[submodule "deepsl_data"]
+	path = deepsl_data
+	url = https://github.com/Namisntimpot/NSL_Data.git
