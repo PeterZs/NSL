@@ -1,7 +1,5 @@
 # RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching
 
-# 适配在deepsl数据集上训练的dataloader以及config(*cfgs/train.yaml*)均已完成,load路径时不知为何相对路径一直失败，所以可能在其它服务器上跑的时候需要修改一下我设置的绝对路径。
-
 This repository contains the source code for our paper:
 
 [RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching](https://arxiv.org/pdf/2109.07547.pdf)<br/>
